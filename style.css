@@ -60,3 +60,10 @@ form input:valid ~ button{
     opacity: 1;
     pointer-events: auto;
 }
+#ads{
+    width: 728px;
+    height: 90px;
+    position: absolute;
+    top: 8%;
+    background: rgba(255, 255,255,0.5);
+}
